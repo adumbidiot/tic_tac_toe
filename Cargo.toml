@@ -1,0 +1,14 @@
+[package]
+name = "tic_tac_toe"
+version = "0.0.1"
+edition = "2018"
+
+[dependencies]
+
+[dependencies.slash] 
+git = "https://github.com/adumbidiot/slash" 
+rev = "5c49afa28125a1ac8c0c858fb9251766a061ef25"
+
+[dependencies.ttt] 
+git = "https://github.com/adumbidiot/TTT" 
+rev = "0d3628ac897636e5ffb613e1cfcce9dfbc1c9764"
